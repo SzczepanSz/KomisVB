@@ -1,0 +1,48 @@
+C:\akcje tematy\inż op\projekt\komisVB\komisVB\bin\Debug\komisVB.exe.config
+C:\akcje tematy\inż op\projekt\komisVB\komisVB\obj\Debug\komisVB.vbprojResolveAssemblyReference.cache
+C:\akcje tematy\inż op\projekt\komisVB\komisVB\obj\Debug\komisVB.Form1.resources
+C:\akcje tematy\inż op\projekt\komisVB\komisVB\obj\Debug\komisVB.Resources.resources
+C:\akcje tematy\inż op\projekt\komisVB\komisVB\obj\Debug\komisVB.vbproj.GenerateResource.Cache
+C:\akcje tematy\inż op\projekt\komisVB\komisVB\bin\Debug\auta1.mdb
+C:\akcje tematy\inż op\projekt\komisVB\komisVB\bin\Debug\auta2.mdb
+C:\akcje tematy\inż op\projekt\komisVB\komisVB\bin\Debug\auta3.mdb
+C:\akcje tematy\inż op\projekt\komisVB\komisVB\bin\Debug\komisVB.exe
+C:\akcje tematy\inż op\projekt\komisVB\komisVB\bin\Debug\komisVB.pdb
+C:\akcje tematy\inż op\projekt\komisVB\komisVB\bin\Debug\komisVB.xml
+C:\akcje tematy\inż op\projekt\komisVB\komisVB\obj\Debug\komisVB.exe
+C:\akcje tematy\inż op\projekt\komisVB\komisVB\obj\Debug\komisVB.xml
+C:\akcje tematy\inż op\projekt\komisVB\komisVB\obj\Debug\komisVB.pdb
+C:\Users\szcze\OneDrive\komis\komisVB\komisVB\bin\Debug\komisVB.exe.config
+C:\Users\szcze\OneDrive\komis\komisVB\komisVB\obj\Debug\komisVB.exe
+C:\Users\szcze\OneDrive\komis\komisVB\komisVB\obj\Debug\komisVB.xml
+C:\Users\szcze\OneDrive\komis\komisVB\komisVB\obj\Debug\komisVB.pdb
+C:\Users\szcze\OneDrive\komis\komisVB\komisVB\bin\Debug\komisVB.exe
+C:\Users\szcze\OneDrive\komis\komisVB\komisVB\bin\Debug\komisVB.pdb
+C:\Users\szcze\OneDrive\komis\komisVB\komisVB\bin\Debug\komisVB.xml
+C:\Users\szcze\OneDrive\komis\komisVB\komisVB\obj\Debug\komisVB.vbprojResolveAssemblyReference.cache
+C:\Users\szcze\OneDrive\komis\komisVB\komisVB\obj\Debug\komisVB.Form1.resources
+C:\Users\szcze\OneDrive\komis\komisVB\komisVB\obj\Debug\komisVB.Resources.resources
+C:\Users\szcze\OneDrive\komis\komisVB\komisVB\obj\Debug\komisVB.vbproj.GenerateResource.Cache
+C:\Users\szcze\OneDrive\komis\komisVB\komisVB\bin\Debug\auta1.sdf
+C:\Users\szcze\OneDrive\komis\komisVB\komisVB\bin\Debug\auta2.sdf
+C:\Users\szcze\OneDrive\komis\komisVB\komisVB\bin\Debug\auta3.sdf
+C:\Users\szcze\OneDrive\komis\komisVB\komisVB\obj\Debug\komisVB.Form3.resources
+C:\Users\szcze\OneDrive\komis\komisVB\komisVB\obj\Debug\komisVB.Form2.resources
+C:\Users\szcze\OneDrive\komis\komisVB\komisVB\obj\Debug\komisVB.Form4.resources
+C:\akcje tematy\inż op\komisVB\komisVB\bin\Debug\komisVB.exe.config
+C:\akcje tematy\inż op\komisVB\komisVB\obj\Debug\komisVB.exe
+C:\akcje tematy\inż op\komisVB\komisVB\obj\Debug\komisVB.xml
+C:\akcje tematy\inż op\komisVB\komisVB\obj\Debug\komisVB.pdb
+C:\akcje tematy\inż op\komisVB\komisVB\obj\Debug\komisVB.vbprojResolveAssemblyReference.cache
+C:\akcje tematy\inż op\komisVB\komisVB\obj\Debug\komisVB.Form1.resources
+C:\akcje tematy\inż op\komisVB\komisVB\obj\Debug\komisVB.Form2.resources
+C:\akcje tematy\inż op\komisVB\komisVB\obj\Debug\komisVB.Form3.resources
+C:\akcje tematy\inż op\komisVB\komisVB\obj\Debug\komisVB.Resources.resources
+C:\akcje tematy\inż op\komisVB\komisVB\obj\Debug\komisVB.vbproj.GenerateResource.Cache
+C:\akcje tematy\inż op\komisVB\komisVB\bin\Debug\auta1.sdf
+C:\akcje tematy\inż op\komisVB\komisVB\bin\Debug\auta2.sdf
+C:\akcje tematy\inż op\komisVB\komisVB\bin\Debug\auta3.sdf
+C:\akcje tematy\inż op\komisVB\komisVB\bin\Debug\komisVB.exe
+C:\akcje tematy\inż op\komisVB\komisVB\bin\Debug\komisVB.pdb
+C:\akcje tematy\inż op\komisVB\komisVB\bin\Debug\komisVB.xml
+C:\akcje tematy\inż op\komisVB\komisVB\obj\Debug\komisVB.Form4.resources

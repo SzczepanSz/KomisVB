@@ -1,0 +1,521 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+komisVB
+</name>
+</assembly>
+<members>
+<member name="T:komisVB.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:komisVB.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:komisVB.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSet.dodatkowe_wyposazenieDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSet.kolorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSet.markaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSet.modelDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSet.model_silnikDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSet.silnikDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSet.dodatkowe_wyposazenieRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSet.kolorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSet.markaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSet.modelRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSet.model_silnikRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSet.silnikRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSet.dodatkowe_wyposazenieRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSet.kolorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSet.markaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSet.modelRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSet.model_silnikRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSet.silnikRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSetTableAdapters.dodatkowe_wyposazenieTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSetTableAdapters.kolorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSetTableAdapters.markaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSetTableAdapters.modelTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSetTableAdapters.model_silnikTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSetTableAdapters.silnikTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:komisVB.auta1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(komisVB.auta1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:komisVB.auta1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(komisVB.auta1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:komisVB.auta1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(komisVB.auta1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:komisVB.auta1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:komisVB.auta1DataSetTableAdapters.TableAdapterManager.UpdateAll(komisVB.auta1DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:komisVB.auta1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSet.dodatkowe_wyposazenieDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSet.kolorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSet.markaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSet.modelDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSet.model_silnikDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSet.silnikDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSet.dodatkowe_wyposazenieRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSet.kolorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSet.markaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSet.modelRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSet.model_silnikRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSet.silnikRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSet.dodatkowe_wyposazenieRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSet.kolorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSet.markaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSet.modelRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSet.model_silnikRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSet.silnikRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSetTableAdapters.dodatkowe_wyposazenieTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSetTableAdapters.kolorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSetTableAdapters.markaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSetTableAdapters.modelTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSetTableAdapters.model_silnikTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSetTableAdapters.silnikTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:komisVB.auta2DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(komisVB.auta2DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:komisVB.auta2DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(komisVB.auta2DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:komisVB.auta2DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(komisVB.auta2DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:komisVB.auta2DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:komisVB.auta2DataSetTableAdapters.TableAdapterManager.UpdateAll(komisVB.auta2DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:komisVB.auta2DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSet.dodatkowe_wyposazenieDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSet.kolorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSet.markaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSet.modelDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSet.model_silnikDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSet.silnikDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSet.dodatkowe_wyposazenieRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSet.kolorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSet.markaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSet.modelRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSet.model_silnikRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSet.silnikRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSet.dodatkowe_wyposazenieRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSet.kolorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSet.markaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSet.modelRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSet.model_silnikRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSet.silnikRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSetTableAdapters.dodatkowe_wyposazenieTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSetTableAdapters.kolorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSetTableAdapters.markaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSetTableAdapters.modelTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSetTableAdapters.model_silnikTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSetTableAdapters.silnikTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:komisVB.auta3DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(komisVB.auta3DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:komisVB.auta3DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(komisVB.auta3DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:komisVB.auta3DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(komisVB.auta3DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:komisVB.auta3DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:komisVB.auta3DataSetTableAdapters.TableAdapterManager.UpdateAll(komisVB.auta3DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:komisVB.auta3DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
